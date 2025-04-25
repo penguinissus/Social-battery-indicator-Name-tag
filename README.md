@@ -1,10 +1,10 @@
 # Social battery indicator Name tag
 
-Schematic Screenshot:
+Schematic Screenshot:  
 ![image](https://github.com/user-attachments/assets/aa78bd36-8e97-49cd-96d0-848e337e495b)  
-PCB Screenshot:
+PCB Screenshot:  
 ![image](https://github.com/user-attachments/assets/6143730d-b6fe-4cc1-b151-735376b150af)  
-3D View:
+3D View:  
 ![image](https://github.com/user-attachments/assets/f7b7cc66-fb05-446f-a239-71ab9f6a59ca)  
 
 # Description
