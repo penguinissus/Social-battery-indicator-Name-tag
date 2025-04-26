@@ -1,7 +1,7 @@
 # Social battery indicator Name tag
 
 Schematic Screenshot:  
-![image](https://github.com/user-attachments/assets/aa78bd36-8e97-49cd-96d0-848e337e495b)  
+![image](https://github.com/user-attachments/assets/f8eb8bde-6203-4ef2-b853-4d16bbb4e7a0)  
 PCB Screenshot:  
 ![image](https://github.com/user-attachments/assets/6143730d-b6fe-4cc1-b151-735376b150af)  
 3D View:  
